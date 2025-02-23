@@ -7,7 +7,7 @@ const About = () => {
   return (
     <div className='about'>
         <div className="about-title">
-            <h1>About me</h1>
+            <h1>About Sara</h1>
             <img src={theme_pattern} alt="" />
         </div>
         <div className="about-sections">
