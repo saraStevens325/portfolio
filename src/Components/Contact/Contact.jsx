@@ -32,7 +32,7 @@ const Contact = () => {
                 </div>
             </div>
             <form className="contact-right">
-                <label for="name">Sara</label>
+                <label for="name">Your Name</label>
                 <input type="text" id="name" name="name" placeholder="Enter your name" />
                 <label for="email">Your Email</label>
                 <input type="email" id="email" name="email" placeholder="Enter your email" />
