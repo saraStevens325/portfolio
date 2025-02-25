@@ -6,8 +6,11 @@
     gap: 35px;
 }
 .hero img{
-    margin-top: 50px;
-    width: ;
+    margin-top: 700px;
+    width: 700px;
+    border: none;
+    border-radius: 50px;
+    margin-top: 0px;
 }
 .hero h1{
     text-align: center;
