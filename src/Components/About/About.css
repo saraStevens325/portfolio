@@ -95,3 +95,11 @@
     transform: scale(1.12);
     transition: 0.5s;
 }
+
+.about-left img{
+    width: 400px;
+    height: 530px;
+    border-radius: 10px;
+    border: none;
+    object-fit: cover;
+}
