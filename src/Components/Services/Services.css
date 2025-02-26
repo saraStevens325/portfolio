@@ -54,6 +54,7 @@
     font-size: 24px;
     line-height: 40px;
     max-width: 300px;
+    align-self: flex-start;
 }
 .services-readmore {
     display: flex;
