@@ -50,14 +50,14 @@
     border: 2px solid white;
 }
 
-.hero-resume{
+.hero-resume a{
     padding:  25px 75px;
     border-radius: 50px;
     border: 2px solid #FFF;
     cursor: pointer; 
 }
 
-.hero-resume:hover{
+.hero-resume a:hover{
     border-color: #B415FF;
 }
 @media(max-width:768px){
@@ -87,7 +87,7 @@
         padding:  20px 30px;
         border-radius: 40px;
     }
-    .hero-resume{
+    .hero-resume a{
         padding:  20px 50px;
         border-radius: 40px;
     }
