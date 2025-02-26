@@ -2,17 +2,17 @@ const Services_Data = [
     {
         s_no:"Web design",
         s_name:"Web design",
-        s_desc:"ninga forms, figma, canva, wordpress, and elementor."
+        s_desc:"Ninja Forms, Figma, Canva, WordPress, and Elementor."
     },
     {
-        s_no:"Backend web development",
+        s_no:"Backend Web Development",
         s_name:"Backend web development",
-        s_desc:"Python web building using Flask."
+        s_desc:"Python, Flask, Java, API integration."
     },
     {
         s_no:"Frontend web development",
         s_name:"Frontend web development",
-        s_desc:"React, JavaScript, HTML, and CSS."
+        s_desc:"React, JavaScript, HTML, CSS, Tailwind, Bootstrap."
     },
     {
         s_no:"Database design",
