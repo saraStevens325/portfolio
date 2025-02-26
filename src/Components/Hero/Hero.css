@@ -6,10 +6,10 @@
     gap: 35px;
 }
 .hero img{
-    margin-top: 700px;
-    width: 700px;
+    height: 300px;
+    width: 300px;
     border: none;
-    border-radius: 50px;
+    border: none;
     margin-top: 0px;
 }
 .hero h1{
@@ -68,7 +68,7 @@
     }
     .hero p{
         width: 60%;
-        font-size: 80px;
+        font-size: 18px;
         line-height: 32px;
         margin: 10px 0px;
     }
