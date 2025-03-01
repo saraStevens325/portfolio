@@ -3,6 +3,7 @@
     align-items: center;
     justify-content: space-between;
     margin: 20px 10%;
+    
 }
 .nav-menu{
     display: flex;
@@ -20,9 +21,12 @@
     transition: 0.5s;
 }
 .logo{
-    align-items: start;
-    width: 500px;
-    height: 500px;
+    /* align-items: start; */
+    /* width: 500px;
+    height: 500px; */
+    width: 250px;
+    height: 250px;
+    
 }
 .nav-connect:hover{
     transform: scale(1.05);
@@ -30,9 +34,9 @@
 .nav-menu li{
     display: flex;
     flex-direction: column;
-    gap: 10px;
+    gap: 5px;
     cursor: pointer;
-    font-size: large;
+    
 }
 
 .nav-menu li img{
@@ -94,6 +98,7 @@
 }
   
 .logo-img{
+    
     width: 500px;
     height: 500px;
 }

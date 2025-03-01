@@ -16,7 +16,7 @@ const About = () => {
             </div>
             <div className="about-right">
                 <div className="about-para">
-                    <p>Sara is a skilled and innovative software engineer with a passion for building scalable, user-centric solutions. Whith expertise in Python, Java, JavaScript, React, SQL, and Amazon Web Services, Sara has a proven track record of designing and implementing robust systems that solve complex problems. Her experience spans 15 years of customer service, and 3 years of web development using programming languages. Whether it's diving into new projects or tweaking design elements of previous ones, Sara loves learning new tools and building new things. </p>
+                    <p>Sara is a skilled and innovative software engineer with a passion for building scalable, user-centric solutions. With expertise in Python, Java, JavaScript, React, SQL, and Amazon Web Services, Sara has a proven track record of designing and implementing robust systems that solve complex problems. Her experience spans 15 years of customer service, and 3 years of web development using programming languages. Whether it's diving into new projects or tweaking design elements of previous ones, Sara loves learning new tools and building new things. </p>
                     
                 </div>
                 <div className="about-skills">
