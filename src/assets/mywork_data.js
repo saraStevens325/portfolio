@@ -10,12 +10,13 @@ const mywork_data = [
         w_no:1,
         w_name:"Movie App",
         w_img:project1_img,
-        w_url:"https://github.com/saraStevens325/portfolio"
+        w_url:"https://github.com/sarastevens123/movie-app"
     },
     {
         w_no:2,
         w_name:"crypto App",
-        w_img:project2_img
+        w_img:project2_img,
+        w_url:"https://github.com/saraStevens325/cyrpto_tracker_app"
     },
     {
         w_no:3,
@@ -26,17 +27,20 @@ const mywork_data = [
     {
         w_no:4,
         w_name:"Cloest App",
-        w_img:project4_img
+        w_img:project4_img,
+        w_url:"https://github.com/sarastevens123/closet"
     },
     {
         w_no:5,
         w_name:"Portfolio",
-        w_img:project5_img
+        w_img:project5_img,
+        w_url:"https://github.com/saraStevens325/portfolio"
     },
     {
         w_no:6,
         w_name:"Web design SFLWC",
-        w_img:project6_img
+        w_img:project6_img,
+        w_url:"https://www.livingwage-sf.org/"
     },
 ]
  
