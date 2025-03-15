@@ -12,7 +12,7 @@ const Hero = () => {
         <p></p>
         <div className="hero-action">
             <div className="hero-connect"><AnchorLink className='anchor-link' offset={50} href='#contact'>Connect</AnchorLink></div>
-            <div className="hero-resume"><a class="linkedin-link" href="https://www.linkedin.com/in/-sara-stevens/">Linkedin</a></div>
+            {/* <div className="hero-resume"><a class="linkedin-link" href="https://www.linkedin.com/in/-sara-stevens/">Linkedin</a></div> */}
         </div>
       
     </div>
